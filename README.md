@@ -32,6 +32,9 @@ Lists of neuroscience related summer schools & short courses:
 - A list of [neuro summer schools](https://github.com/PhABC/neuroSummerSchools)
 - A list of [short courses in computational neuroscience](https://docs.google.com/spreadsheets/d/1b05MPR7bkxnwKjzY-6KHd_aDaV_68qwMhuFVu5IGG9g)
 
+Lists related to neuroscience in industry:
+- A list of [neuro related companise](https://npsl.sites.stanford.edu/related-companies)
+
 ## Science
 
 Lists related to science practice and labs:
