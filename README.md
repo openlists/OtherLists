@@ -23,7 +23,7 @@ Lists related to neuroscience:
 - A list of [awesome neuroscience](https://github.com/analyticalmonk/awesome-neuroscience)
 - A list of [resources related to neuroscience](https://github.com/martinagvilas/lists)
 - A list of [BCI resources](https://github.com/NeuroTechX/awesome-bci)
-- A list of [resources related to neuroscience, new tools and data science](https://github.com/PTDZ/SORTED)
+- A list of [resources related to neuroscience and data science](https://github.com/PTDZ/SORTED)
 
 Lists related to computational neuroscience:
 - A list of [Awesome Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience)
