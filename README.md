@@ -6,6 +6,13 @@ This list is curated to reflect topics related to other materials covered by the
 
 For more general resources, check out the mega [list of all lists](https://github.com/sindresorhus/awesome).
 
+## Science
+
+Lists related to science practice and labs:
+- A list of [open science resources](https://github.com/asoplata/open-science-resources)
+- A list of [lab hacks](https://github.com/pbeukema/LabHacks)
+- A list of [resources for better science code](https://github.com/edeno/Better-Science-Code)
+
 ## Coding
 
 Lists related to programming in Python:
@@ -24,6 +31,7 @@ Lists related to neuroscience:
 - A list of [resources related to neuroscience](https://github.com/martinagvilas/lists)
 - A list of [BCI resources](https://github.com/NeuroTechX/awesome-bci)
 - A list of [resources related to neuroscience and data science](https://github.com/PTDZ/SORTED)
+- A list of [Python packages for the rodent neuroscientist](https://medium.com/@ningleow/python-packages-for-the-rodent-neuroscientist-3f2b2074bd77)
 
 Lists related to computational neuroscience:
 - A list of [Awesome Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience)
@@ -35,10 +43,3 @@ Lists of neuroscience related summer schools & short courses:
 
 Lists related to neuroscience in industry:
 - A list of [neuro related companise](https://npsl.sites.stanford.edu/related-companies)
-
-## Science
-
-Lists related to science practice and labs:
-- A list of [open science resources](https://github.com/asoplata/open-science-resources)
-- A list of [lab hacks](https://github.com/pbeukema/LabHacks)
-- A list of [resources for better science code](https://github.com/edeno/Better-Science-Code)
